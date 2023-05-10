@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product","POST - Add new product product","SUCCESS","2023-05-10T15:53:19.8007852+07:00[Asia/Jakarta]","0.0","0.4"
+"Product","POST - Add new product without Name payload","SUCCESS","2023-05-10T15:53:20.2065476+07:00[Asia/Jakarta]","0.0","0.36"
+"Product","POST - Add new product without Description payload","SUCCESS","2023-05-10T15:53:20.5732962+07:00[Asia/Jakarta]","0.0","0.26"
+"Product","GET - Get product by ID","SUCCESS","2023-05-10T15:53:20.8436879+07:00[Asia/Jakarta]","0.0","0.81"
+"Product","GET - Get all product","SUCCESS","2023-05-10T15:53:21.683944+07:00[Asia/Jakarta]","0.0","0.3"
